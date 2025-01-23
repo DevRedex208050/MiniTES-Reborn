@@ -149,9 +149,9 @@ button:disabled:hover {
 }
 
 #equipsTable {
-	min-width: 240px;
-    width:240px;
-    max-width: 240px;
+	min-width: 300px;
+    width:300px;
+    max-width: 300px;
 }
 
 
