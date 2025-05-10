@@ -1,4 +1,4 @@
-#MiniTES Reborn
+# MiniTES Reborn
 An enhanced version of MiniTES that aims to improve the gameplay experience by giving the player more information. 
 Play MiniTES-Reborn here: https://DevRedex208050.github.io/MiniTES-Reborn/game
 
