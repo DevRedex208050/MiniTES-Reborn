@@ -353,6 +353,7 @@ var heavyHeadArmor6 = { have: false, armorClass: acHeavy[6], name: "Steel Helm (
 var heavyHeadArmor7 = { have: false, armorClass: acHeavy[7], name: "Diamond Helm (T7)" }
 var heavyHeadArmor8 = { have: false, armorClass: acHeavy[8], name: "Obsidian Helm (T8)" }
 var heavyHeadArmor9 = { have: false, armorClass: acHeavy[9], name: "Firestorm Helm (T9)" }
+cow.bestheavyHeadArmor = 0;
 
 var heavyShoulderArmor0 = { have: true, armorClass: acHeavy[0], name: "---" }
 var heavyShoulderArmor1 = { have: false, armorClass: acHeavy[1], name: "Rusted Pauldrons (T1)" }
